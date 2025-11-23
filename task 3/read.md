@@ -17,7 +17,7 @@ According to the assignment, Gemini 3.0 introduced several major improvements:
 ⚙️ Better API controls and developer tools for easier integration
 
 
-TASK 3
+
 
 ⚡ 2. How does Gemini 3.0 improve coding & automation workflows?
 
@@ -32,7 +32,7 @@ Works better with automation tools and scripting environments
 Reduces manual effort by handling repetitive tasks
 
 
-TASK 3
+
 
 🎨 3. How does Gemini 3.0 improve multimodal understanding?
 
@@ -44,9 +44,6 @@ Gives more accurate explanations of screenshots and visuals
 
 Acts more “real-world smart” by processing multiple sources together
 
-
-TASK 3
-
 🛠 4. Name any two developer tools introduced with Gemini 3.0
 
 The PDF lists the following two tools:
@@ -54,3 +51,7 @@ The PDF lists the following two tools:
 🛠 Google Antigravity – agent-first IDE for coding with Gemini 3
 
 💻 Gemini CLI – terminal tool for workflows, commands, and code generation
+
+✨ Reflection
+
+Learning about Gemini 3.0 showed me how rapidly AI is evolving. I realized that Gemini 3.0 is not just a normal upgrade — it brings smarter reasoning, better coding support, stronger multimodal understanding, and new developer tools that make work easier and faster. This task helped me understand how these improvements can enhance real-world problem-solving, automation, and development workflows, making AI an even more powerful assistant for students and developers.
